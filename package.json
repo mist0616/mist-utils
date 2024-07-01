@@ -12,6 +12,8 @@
         "url": "git+https://github.com/mist0616/mist-utils.git"
     },
     "keywords": [
+        "js",
+        "javascript",
         "utils"
     ],
     "license": "MIT",
