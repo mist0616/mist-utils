@@ -1,6 +1,6 @@
 # Mist Utils
 
-一个 JS 工具库.
+一个 JS Utils 库.
 
 ## 安装
 
