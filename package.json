@@ -1,0 +1,30 @@
+{
+    "name": "mist-utils",
+    "version": "1.0.0",
+    "description": "一个 JS 工具库",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mist0616/mist-utils.git"
+    },
+    "keywords": [
+        "utils"
+    ],
+    "license": "MIT",
+    "author": "迷雾 <2939137282@qq.com>",
+    "bugs": {
+        "url": "https://github.com/mist0616/mist-utils/issues"
+    },
+    "homepage": "https://github.com/mist0616/mist-utils#readme",
+    "devDependencies": {
+        "@types/node": "^20.14.9",
+        "typescript": "^5.5.2"
+    },
+    "files": [
+        "dist"
+    ]
+}
